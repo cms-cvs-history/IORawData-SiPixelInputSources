@@ -1,4 +1,5 @@
 source = PixelSLinkDataInputSource   {
 	untracked vstring fileNames = {"file:/afs/cern.ch/cms/Tracker/Pixel/forward/ryd/PixelAlive_070106d.dmp"}
 	untracked int32 fedid = -1  
+	untracked int32 runNumber = -1
    }
